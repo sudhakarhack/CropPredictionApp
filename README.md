@@ -1,2 +1,0 @@
-# CropPredictionApp
-Predict The Production
